@@ -1,0 +1,15 @@
+E:\Programming for QA\Text-Reading\TextReading\TextReading\bin\Debug\net6.0\TextReading.exe
+E:\Programming for QA\Text-Reading\TextReading\TextReading\bin\Debug\net6.0\TextReading.deps.json
+E:\Programming for QA\Text-Reading\TextReading\TextReading\bin\Debug\net6.0\TextReading.runtimeconfig.json
+E:\Programming for QA\Text-Reading\TextReading\TextReading\bin\Debug\net6.0\TextReading.dll
+E:\Programming for QA\Text-Reading\TextReading\TextReading\bin\Debug\net6.0\TextReading.pdb
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.csproj.AssemblyReference.cache
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfoInputs.cache
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfo.cs
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.csproj.CoreCompileInputs.cache
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.dll
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\refint\TextReading.dll
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.pdb
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\TextReading.genruntimeconfig.cache
+E:\Programming for QA\Text-Reading\TextReading\TextReading\obj\Debug\net6.0\ref\TextReading.dll
