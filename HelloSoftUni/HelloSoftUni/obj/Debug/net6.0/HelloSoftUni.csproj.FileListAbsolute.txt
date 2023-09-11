@@ -1,0 +1,15 @@
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.exe
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.deps.json
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.runtimeconfig.json
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.dll
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.pdb
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.csproj.AssemblyReference.cache
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.AssemblyInfoInputs.cache
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.AssemblyInfo.cs
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.csproj.CoreCompileInputs.cache
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.dll
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\refint\HelloSoftUni.dll
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.pdb
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.genruntimeconfig.cache
+E:\Programming for QA\First-Step-in-Programming\HelloSoftUni\HelloSoftUni\obj\Debug\net6.0\ref\HelloSoftUni.dll
