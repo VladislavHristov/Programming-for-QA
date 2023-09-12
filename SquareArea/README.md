@@ -3,9 +3,7 @@ Write a console program that reads the length of one side of a square from the c
 
 Example Input/Output
 
-Input:2	Output:2
-
-Input:6	Output:36
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/cb763aaa-d58d-400d-b199-7fff116a3834)
 
 
 
