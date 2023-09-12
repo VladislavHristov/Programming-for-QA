@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.exe
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\refint\SquareArea.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Square-Area\SquareArea\SquareArea\obj\Debug\net6.0\ref\SquareArea.dll
