@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\bin\Debug\net6.0\ExcellentGradeCheck.exe
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\bin\Debug\net6.0\ExcellentGradeCheck.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\bin\Debug\net6.0\ExcellentGradeCheck.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\bin\Debug\net6.0\ExcellentGradeCheck.dll
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\bin\Debug\net6.0\ExcellentGradeCheck.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.dll
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\refint\ExcellentGradeCheck.dll
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ExcellentGradeCheck.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\ExcellentGradeCheck\obj\Debug\net6.0\ref\ExcellentGradeCheck.dll
