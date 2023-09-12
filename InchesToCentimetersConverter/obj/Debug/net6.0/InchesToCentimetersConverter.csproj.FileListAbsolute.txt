@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\bin\Debug\net6.0\InchesToCentimetersConverter.exe
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\bin\Debug\net6.0\InchesToCentimetersConverter.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\bin\Debug\net6.0\InchesToCentimetersConverter.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\bin\Debug\net6.0\InchesToCentimetersConverter.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\bin\Debug\net6.0\InchesToCentimetersConverter.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\refint\InchesToCentimetersConverter.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\InchesToCentimetersConverter.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Inches-to-Centimeters-Converter\InchesToCentimetersConverter\obj\Debug\net6.0\ref\InchesToCentimetersConverter.dll
