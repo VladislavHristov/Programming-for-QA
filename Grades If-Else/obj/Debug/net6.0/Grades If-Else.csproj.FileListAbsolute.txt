@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\bin\Debug\net6.0\Grades If-Else.exe
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\bin\Debug\net6.0\Grades If-Else.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\bin\Debug\net6.0\Grades If-Else.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\bin\Debug\net6.0\Grades If-Else.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\bin\Debug\net6.0\Grades If-Else.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\refint\Grades If-Else.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\Grades If-Else.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Grades If-Else\obj\Debug\net6.0\ref\Grades If-Else.dll
