@@ -1,7 +1,8 @@
 # Programming-for-QA
-Write a console program that reads a grade value (floating point number) as input from the console. The program should then evaluate the grade and display appropriate messages based on the following conditions:
-•	If the entered grade is equal to or greater than 5.50, the program should display "Excellent!"
-•	If the entered grade is less than 5.50, the program should display "Not excellent.”
+Create a console program that assesses whether a given integer is odd or even. The program should follow these steps:
+1.	Read an Integer Input: The program should read a value from the console using the Console.ReadLine() method. Convert the input to an integer using int.Parse() and store it in the variable num.
+2.	Evaluate if the Integer is Even or Odd: Use a conditional statement (if-else) to check if the value of num is evenly divisible by 2. To do this, calculate num % 2 (the remainder when dividing num by 2). If the remainder is 0, it means num is even; if the remainder is 1, it means num is odd.
+3.	Display the Result: If num is even (the remainder is 0), use Console.WriteLine() to print "even" on the console. 
+If num is odd (the remainder is 1), use Console.WriteLine() to print "odd" on the console.
 
-![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/a3410081-fe3b-4545-ba50-d40c2c26ccd3)
-
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/b165498b-a71c-4056-87ef-6cb1912e8fe2)
