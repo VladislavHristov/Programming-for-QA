@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\bin\Debug\net6.0\The Greater Number.exe
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\bin\Debug\net6.0\The Greater Number.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\bin\Debug\net6.0\The Greater Number.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\bin\Debug\net6.0\The Greater Number.dll
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\bin\Debug\net6.0\The Greater Number.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.dll
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\refint\The Greater Number.dll
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\The Greater Number.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\The Greater Number\obj\Debug\net6.0\ref\The Greater Number.dll
