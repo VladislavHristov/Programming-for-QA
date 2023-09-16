@@ -1,7 +1,7 @@
 # Programming-for-QA
 Create a console program that identifies the name of a day based on a numeric input. Here's how you can construct the program:
 1. Read an Integer Input: The program should read an integer value from the console and store it in the variable "day".
-2. Convert to Word: Use a switch statement to match the value of the day with the corresponding week’s day name. 
+2. Convert to Word: Use a switch statement to match the value of the day with the corresponding weekâ€™s day name. 
 3. Check the following conditions:
 * If day is 1, display "Monday" on the console.
 * If day is 2, display "Tuesday" on the console.
@@ -11,4 +11,5 @@ Create a console program that identifies the name of a day based on a numeric in
 * If day is 6, display "Saturday" on the console.
 * If day is 7, display "Sunday" on the console.
 
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/db58f28d-d276-4ba1-870d-e918f18d4574)
 
