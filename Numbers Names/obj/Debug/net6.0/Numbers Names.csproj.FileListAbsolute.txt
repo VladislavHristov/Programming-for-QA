@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\bin\Debug\net6.0\Numbers Names.exe
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\bin\Debug\net6.0\Numbers Names.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\bin\Debug\net6.0\Numbers Names.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\bin\Debug\net6.0\Numbers Names.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\bin\Debug\net6.0\Numbers Names.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\refint\Numbers Names.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\Numbers Names.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Numbers Names\obj\Debug\net6.0\ref\Numbers Names.dll
