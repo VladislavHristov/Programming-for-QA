@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\bin\Debug\net6.0\Days of the Week.exe
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\bin\Debug\net6.0\Days of the Week.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\bin\Debug\net6.0\Days of the Week.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\bin\Debug\net6.0\Days of the Week.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\bin\Debug\net6.0\Days of the Week.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\refint\Days of the Week.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\Days of the Week.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Days of the Week\obj\Debug\net6.0\ref\Days of the Week.dll
