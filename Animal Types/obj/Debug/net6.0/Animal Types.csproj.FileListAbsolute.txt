@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.AssemblyInfo.cs
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\bin\Debug\net6.0\Animal Types.exe
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\bin\Debug\net6.0\Animal Types.deps.json
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\bin\Debug\net6.0\Animal Types.runtimeconfig.json
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\bin\Debug\net6.0\Animal Types.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\bin\Debug\net6.0\Animal Types.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\refint\Animal Types.dll
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.pdb
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\Animal Types.genruntimeconfig.cache
+D:\Programming-for-QA\First-Steps-in-Coding\Animal Types\obj\Debug\net6.0\ref\Animal Types.dll
