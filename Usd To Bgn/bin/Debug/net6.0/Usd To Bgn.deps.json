@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Usd To Bgn/1.0.0": {
+        "runtime": {
+          "Usd To Bgn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usd To Bgn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.AssemblyInfo.cs
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.exe
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.deps.json
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.runtimeconfig.json
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.dll
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.pdb
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.dll
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\refint\Usd To Bgn.dll
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.pdb
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.genruntimeconfig.cache
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\ref\Usd To Bgn.dll
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.exe
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.deps.json
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.runtimeconfig.json
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.dll
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\bin\Debug\net6.0\Usd To Bgn.pdb
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.csproj.AssemblyReference.cache
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.AssemblyInfoInputs.cache
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.AssemblyInfo.cs
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.csproj.CoreCompileInputs.cache
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.dll
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\refint\Usd To Bgn.dll
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.pdb
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\Usd To Bgn.genruntimeconfig.cache
+E:\Programming for QA\First Steps in Programming Data Types Calculations\Usd To Bgn\obj\Debug\net6.0\ref\Usd To Bgn.dll
