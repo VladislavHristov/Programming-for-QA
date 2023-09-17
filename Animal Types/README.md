@@ -7,3 +7,4 @@ Create a console program that classifies animals based on their types. Here's ho
 * If the animal is "crocodile", "tortoise", or "snake", display "reptile" on the console.
 * If none of the above cases match, display "unknown" on the console.
 
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/e36a1b83-f00b-4935-a0cd-ba52f9b095ea)
