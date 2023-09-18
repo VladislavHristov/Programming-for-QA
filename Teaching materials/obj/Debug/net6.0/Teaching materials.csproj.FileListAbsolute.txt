@@ -1,0 +1,14 @@
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\bin\Debug\net6.0\Teaching materials.exe
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\bin\Debug\net6.0\Teaching materials.deps.json
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\bin\Debug\net6.0\Teaching materials.runtimeconfig.json
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\bin\Debug\net6.0\Teaching materials.dll
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\bin\Debug\net6.0\Teaching materials.pdb
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.AssemblyInfoInputs.cache
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.AssemblyInfo.cs
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.dll
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\refint\Teaching materials.dll
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.pdb
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\Teaching materials.genruntimeconfig.cache
+D:\Programming-for-QA\First Steps in Programming Data Types Calculations\Teaching materials\obj\Debug\net6.0\ref\Teaching materials.dll
