@@ -14,5 +14,6 @@ Output
 Print out only one line on the console:
 •	"{the sum of all costs}"
 
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/acdb2caa-45ea-482b-ae34-0d8b3aac6071)
 
 
