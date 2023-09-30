@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\bin\Debug\net6.0\SummerClothing.exe
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\bin\Debug\net6.0\SummerClothing.deps.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\bin\Debug\net6.0\SummerClothing.runtimeconfig.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\bin\Debug\net6.0\SummerClothing.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\bin\Debug\net6.0\SummerClothing.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.AssemblyInfo.cs
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\refint\SummerClothing.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\SummerClothing.genruntimeconfig.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\SummerClothing\obj\Debug\net6.0\ref\SummerClothing.dll
