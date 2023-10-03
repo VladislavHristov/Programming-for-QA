@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\bin\Debug\net6.0\Ski Holiday.exe
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\bin\Debug\net6.0\Ski Holiday.deps.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\bin\Debug\net6.0\Ski Holiday.runtimeconfig.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\bin\Debug\net6.0\Ski Holiday.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\bin\Debug\net6.0\Ski Holiday.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.AssemblyInfo.cs
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\refint\Ski Holiday.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\Ski Holiday.genruntimeconfig.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\Ski Holiday\obj\Debug\net6.0\ref\Ski Holiday.dll
