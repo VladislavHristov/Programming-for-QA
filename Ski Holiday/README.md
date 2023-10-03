@@ -4,4 +4,5 @@ Atanas decided to spend his vacation in Bansko and go skiing. Before he goes, ho
 	"apartment" - 155.00 BGN per night 
 	"President Apartment" – 235.00 BGN per night
 Based on the number of days he plans to stay in the hotel (example: 11 days = 10 nights) and the type of room he chooses, he may be eligible for various discounts. 
+
 The available reductions are as follows:
