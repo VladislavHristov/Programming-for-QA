@@ -16,3 +16,5 @@ On the second line, print a message, considering the following conditions:
 o	For being late under an hour: "{mm} minutes after the start"
 o	For a delay of 1 hour or more: "{hh:mm} hours after the start". 
 	Always print the minutes with 2 digits, such as "1:03".
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/b0aa749b-ba63-4e34-b92a-f994c22e5a40)
+
