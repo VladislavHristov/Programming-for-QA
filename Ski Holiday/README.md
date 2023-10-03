@@ -6,6 +6,7 @@ Atanas decided to spend his vacation in Bansko and go skiing. Before he goes, ho
 Based on the number of days he plans to stay in the hotel (example: 11 days = 10 nights) and the type of room he chooses, he may be eligible for various discounts. 
 
 The available reductions are as follows:
-![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/60e67e39-4871-4b96-898b-5c0a91266dc0)
+![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/654beef7-0e23-4f59-97e0-2df78bfdf06a)
+
 After the stay, Atanas' assessment of the hotel's services can be positive or negative.  If his assessment is "positive", Atanas adds 25% of it to the price with the already deducted discount. If his assessment is "negative", he deducts 10% from the price. 
 ![image](https://github.com/VladislavHristov/Programming-for-QA/assets/136968279/85ab5f56-6b62-41f7-a4d1-ac53bb6f8a63)
