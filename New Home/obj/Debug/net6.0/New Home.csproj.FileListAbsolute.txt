@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.AssemblyInfo.cs
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\bin\Debug\net6.0\New Home.exe
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\bin\Debug\net6.0\New Home.deps.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\bin\Debug\net6.0\New Home.runtimeconfig.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\bin\Debug\net6.0\New Home.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\bin\Debug\net6.0\New Home.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\refint\New Home.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\New Home.genruntimeconfig.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\New Home\obj\Debug\net6.0\ref\New Home.dll
