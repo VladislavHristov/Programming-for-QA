@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\bin\Debug\net6.0\CinemaTickets.exe
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\bin\Debug\net6.0\CinemaTickets.deps.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\bin\Debug\net6.0\CinemaTickets.runtimeconfig.json
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\bin\Debug\net6.0\CinemaTickets.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\bin\Debug\net6.0\CinemaTickets.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.AssemblyInfo.cs
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\refint\CinemaTickets.dll
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.pdb
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\CinemaTickets.genruntimeconfig.cache
+D:\Programming-for-QA\Conditional Statements Nested Conditional statements\CinemaTickets\CinemaTickets\obj\Debug\net6.0\ref\CinemaTickets.dll
