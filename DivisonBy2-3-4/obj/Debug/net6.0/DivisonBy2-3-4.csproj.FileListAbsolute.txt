@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\bin\Debug\net6.0\DivisonBy2-3-4.exe
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\bin\Debug\net6.0\DivisonBy2-3-4.deps.json
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\bin\Debug\net6.0\DivisonBy2-3-4.runtimeconfig.json
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\bin\Debug\net6.0\DivisonBy2-3-4.dll
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\bin\Debug\net6.0\DivisonBy2-3-4.pdb
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.AssemblyInfo.cs
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.dll
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\refint\DivisonBy2-3-4.dll
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.pdb
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\DivisonBy2-3-4.genruntimeconfig.cache
+D:\Programming-for-QA\Exercise Loops New\DivisonBy2-3-4\obj\Debug\net6.0\ref\DivisonBy2-3-4.dll
