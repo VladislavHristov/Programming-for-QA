@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\bin\Debug\net6.0\BiggestNum.exe
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\bin\Debug\net6.0\BiggestNum.deps.json
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\bin\Debug\net6.0\BiggestNum.runtimeconfig.json
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\bin\Debug\net6.0\BiggestNum.dll
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\bin\Debug\net6.0\BiggestNum.pdb
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.AssemblyInfo.cs
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.dll
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\refint\BiggestNum.dll
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.pdb
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\BiggestNum.genruntimeconfig.cache
+D:\Programming-for-QA\Exercise Loops New\BiggestNum\obj\Debug\net6.0\ref\BiggestNum.dll
