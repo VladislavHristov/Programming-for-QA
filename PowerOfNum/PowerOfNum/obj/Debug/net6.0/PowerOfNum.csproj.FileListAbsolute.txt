@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\bin\Debug\net6.0\PowerOfNum.exe
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\bin\Debug\net6.0\PowerOfNum.deps.json
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\bin\Debug\net6.0\PowerOfNum.runtimeconfig.json
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\bin\Debug\net6.0\PowerOfNum.dll
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\bin\Debug\net6.0\PowerOfNum.pdb
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.AssemblyInfo.cs
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.dll
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\refint\PowerOfNum.dll
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.pdb
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\PowerOfNum.genruntimeconfig.cache
+D:\Programming-for-QA\Exercise Loops New\PowerOfNum\PowerOfNum\obj\Debug\net6.0\ref\PowerOfNum.dll
