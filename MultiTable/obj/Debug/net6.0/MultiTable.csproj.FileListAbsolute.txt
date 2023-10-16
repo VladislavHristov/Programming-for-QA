@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Exercise Loops New\MultiTable\bin\Debug\net6.0\MultiTable.exe
+D:\Programming-for-QA\Exercise Loops New\MultiTable\bin\Debug\net6.0\MultiTable.deps.json
+D:\Programming-for-QA\Exercise Loops New\MultiTable\bin\Debug\net6.0\MultiTable.runtimeconfig.json
+D:\Programming-for-QA\Exercise Loops New\MultiTable\bin\Debug\net6.0\MultiTable.dll
+D:\Programming-for-QA\Exercise Loops New\MultiTable\bin\Debug\net6.0\MultiTable.pdb
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.AssemblyInfo.cs
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.dll
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\refint\MultiTable.dll
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.pdb
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\MultiTable.genruntimeconfig.cache
+D:\Programming-for-QA\Exercise Loops New\MultiTable\obj\Debug\net6.0\ref\MultiTable.dll
