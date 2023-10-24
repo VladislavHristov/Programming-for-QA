@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.AssemblyInfo.cs
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\bin\Debug\net6.0\SpecialNum.exe
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\bin\Debug\net6.0\SpecialNum.deps.json
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\bin\Debug\net6.0\SpecialNum.runtimeconfig.json
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\bin\Debug\net6.0\SpecialNum.dll
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\bin\Debug\net6.0\SpecialNum.pdb
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.dll
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\refint\SpecialNum.dll
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.pdb
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\SpecialNum.genruntimeconfig.cache
+D:\Programming-for-QA\Exercise Loops New\SpecialNum\obj\Debug\net6.0\ref\SpecialNum.dll
