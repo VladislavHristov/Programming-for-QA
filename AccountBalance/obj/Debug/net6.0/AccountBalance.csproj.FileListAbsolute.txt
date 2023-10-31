@@ -1,0 +1,14 @@
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\bin\Debug\net6.0\AccountBalance.exe
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\bin\Debug\net6.0\AccountBalance.deps.json
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\bin\Debug\net6.0\AccountBalance.runtimeconfig.json
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\bin\Debug\net6.0\AccountBalance.dll
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\bin\Debug\net6.0\AccountBalance.pdb
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.AssemblyInfoInputs.cache
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.AssemblyInfo.cs
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.csproj.CoreCompileInputs.cache
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.dll
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\refint\AccountBalance.dll
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.pdb
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\AccountBalance.genruntimeconfig.cache
+D:\Programming-for-QA\Exercise Loops New\AccountBalance\obj\Debug\net6.0\ref\AccountBalance.dll
